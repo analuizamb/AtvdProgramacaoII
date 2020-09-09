@@ -1,3 +1,9 @@
+package exercicio0209;
+
+public class pessoa {
+	
+	private String nome;
+	private String rg;
 	private String email;
 	
 	public pessoa(String nome, String rg, String email) {
@@ -36,3 +42,4 @@
 	
 
 }
+
